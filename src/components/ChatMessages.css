@@ -1,0 +1,7 @@
+.chat-messages-cointainer {
+            flex-grow: 1;
+            overflow: scroll;
+            margin-top: 20px;
+            scrollbar-width: none;
+
+         }
