@@ -60,7 +60,7 @@ npm -v
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/krif014/chatbot-project.git
+git clone https://github.com/krif014/my-repo-name.git
 
 cd chatbot-project
 
