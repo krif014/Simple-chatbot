@@ -33,8 +33,8 @@ This chatbot is designed to perform simple utility actions such as:
 ## 🖼️ Image Preview
 
 <p align="center">
-<a href="chatbot(2).png">  
-<img src="./chatbot(2).png" height="45%" />
+<a href="chatbot (2).png">  
+<img src="./chatbot (2).png" height="45%" />
 </a>  
 </p>
 
