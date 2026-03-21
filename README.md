@@ -19,9 +19,9 @@ This project demonstrates component-based architecture, asset handling, and a fa
 
 This chatbot is designed to perform simple utility actions such as:
 
-- 🎲 Flip a coin  
+- 🪙 Flip a coin  
 
-- 🎯 Roll a dice  
+- 🎲 Roll a dice  
 
 - 📅 Get today’s date  
 
