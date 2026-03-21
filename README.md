@@ -34,7 +34,7 @@ This chatbot is designed to perform simple utility actions such as:
 
 <p align="center">
 <a href="chatbot (2).png">  
-<img src="./chatbot (2).png" height="45%" />
+<img src="./chatbot (2).png" height="25%" />
 </a>  
 </p>
 
